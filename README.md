@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fe-22
-- 👀 I’m interested in ...
+- 👀 IA,Java e Spring Boot RestFull
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Colaboração em desenvolvimento em projetos web.
+- 📫 fernandoalexthec@gmail.com
 
 <!---
 fe-22/fe-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
