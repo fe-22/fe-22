@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @fe-22
 - 👀 IA,Java e Spring Boot RestFull
+- Python,Flask
 
 - 💞️ Colaboração em desenvolvimento em projetos web.
 - 📫 fernandoalexthec@gmail.com
